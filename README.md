@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishjhahack/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashishjhahack/Leetcode/tree/master/0704-binary-search) |
+| [0896-monotonic-array](https://github.com/ashishjhahack/Leetcode/tree/master/0896-monotonic-array) |
 | [1901-find-a-peak-element-ii](https://github.com/ashishjhahack/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
