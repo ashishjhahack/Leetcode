@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ashishjhahack/Leetcode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/ashishjhahack/Leetcode/tree/master/0896-monotonic-array) |
 | [1901-find-a-peak-element-ii](https://github.com/ashishjhahack/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ashishjhahack/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishjhahack/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ashishjhahack/Leetcode/tree/master/0076-minimum-window-substring) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ashishjhahack/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
