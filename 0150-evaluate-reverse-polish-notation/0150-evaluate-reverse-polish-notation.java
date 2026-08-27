@@ -22,6 +22,6 @@ class Solution {
                 st.push(res);
             }
         }
-        return st.peek();
+        return st.pop();
     }
 }
