@@ -1,5 +1,6 @@
 class Solution {
     public int lengthOfLastWord(String s) {
+        // My Approach :- T.C & S.C :- O(n)
         s = s.trim();
         int n = s.length();
         int count = 0;
