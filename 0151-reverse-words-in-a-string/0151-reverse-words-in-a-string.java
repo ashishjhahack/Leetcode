@@ -2,14 +2,13 @@ class Solution {
     public String reverseWords(String s) {
         s = s.trim();
         String[] words = s.split("\\s+");
-        int left = 0, right = words.length-1;
-        while(left < right){
-            String temp = words[left];
-            words[left] = words[right];
-            words[right] = temp;
-            left++;
-            right--;
+        StringBuilder sb = new StringBuilder();
+        for(int i=words.length-1; i>=0; i--){
+            sb.append(words[i]);
+
+            // add spaces but not in the last 
+            if(i != 0) sb.append(" ");
         }
-        return String.join(" ", words);
+        return sb.toString();
     }
 }
