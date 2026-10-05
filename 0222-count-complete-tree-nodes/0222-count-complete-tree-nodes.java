@@ -13,7 +13,7 @@
  *     }
  * }
  */
-class Solution {
+class Solution {  // Time  = O(log² n) , space = O(log n)
     public int countNodes(TreeNode root) {
 
         if (root == null) {
@@ -24,9 +24,9 @@ class Solution {
         int rightHeight = getRightHeight(root);
 
         // If left and right heights are equal,
-        // the tree is perfect.
+        // the tree is perfect and we can find using only formulae
         if (leftHeight == rightHeight) {
-            return (1 << leftHeight) - 1;
+            return (int) Math.pow(2, leftHeight)-1;
         }
 
         // Otherwise, recursively count both subtrees.
