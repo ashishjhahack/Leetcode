@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashishjhahack/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ashishjhahack/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ashishjhahack/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/ashishjhahack/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ashishjhahack/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -351,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishjhahack/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ashishjhahack/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
