@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/ashishjhahack/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishjhahack/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0427-construct-quad-tree](https://github.com/ashishjhahack/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishjhahack/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashishjhahack/Leetcode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/ashishjhahack/Leetcode/tree/master/0896-monotonic-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ashishjhahack/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0427-construct-quad-tree](https://github.com/ashishjhahack/Leetcode/tree/master/0427-construct-quad-tree) |
 | [1901-find-a-peak-element-ii](https://github.com/ashishjhahack/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ashishjhahack/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ashishjhahack/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0427-construct-quad-tree](https://github.com/ashishjhahack/Leetcode/tree/master/0427-construct-quad-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ashishjhahack/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishjhahack/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashishjhahack/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/ashishjhahack/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ashishjhahack/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ashishjhahack/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
