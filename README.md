@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishjhahack/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashishjhahack/Leetcode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/ashishjhahack/Leetcode/tree/master/0896-monotonic-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ashishjhahack/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1901-find-a-peak-element-ii](https://github.com/ashishjhahack/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashishjhahack/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashishjhahack/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/ashishjhahack/Leetcode/tree/master/0427-construct-quad-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ashishjhahack/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishjhahack/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/ashishjhahack/Leetcode/tree/master/0392-is-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ashishjhahack/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Randomized
 |  |
 | ------- |
@@ -404,4 +407,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishjhahack/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ashishjhahack/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ashishjhahack/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
