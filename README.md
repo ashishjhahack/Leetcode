@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ashishjhahack/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ashishjhahack/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashishjhahack/Leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/ashishjhahack/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ashishjhahack/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ashishjhahack/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ashishjhahack/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashishjhahack/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/ashishjhahack/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ashishjhahack/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishjhahack/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ashishjhahack/Leetcode/tree/master/0189-rotate-array) |
