@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ashishjhahack/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ashishjhahack/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/ashishjhahack/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishjhahack/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishjhahack/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashishjhahack/Leetcode/tree/master/0162-find-peak-element) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashishjhahack/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ashishjhahack/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ashishjhahack/Leetcode/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/ashishjhahack/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishjhahack/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/ashishjhahack/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ashishjhahack/Leetcode/tree/master/0189-rotate-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ashishjhahack/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishjhahack/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishjhahack/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0149-max-points-on-a-line](https://github.com/ashishjhahack/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ashishjhahack/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishjhahack/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashishjhahack/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -449,4 +452,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ashishjhahack/Leetcode/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ashishjhahack/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ashishjhahack/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ashishjhahack/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
