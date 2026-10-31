@@ -1,14 +1,12 @@
 class Solution {
-    public int climbStairs(int n) {
+    public int climbStairs(int n) {   // T.c & S.C :- O(n)
         if(n == 1 || n == 2) return n;
-        int prev2 = 1;
-        int prev1 = 2;
-        int ans = 0;
+        int[] dp = new int[n+1];
+        dp[1] = 1;
+        dp[2] = 2;
         for(int i=3; i<=n; i++){
-            ans = prev2 + prev1;
-            prev2 = prev1;
-            prev1 = ans;
+            dp[i] = dp[i-1] + dp[i-2];
         }
-        return ans;
+        return dp[n];
     }
 }
