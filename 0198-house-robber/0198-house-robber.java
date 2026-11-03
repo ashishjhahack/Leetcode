@@ -3,22 +3,20 @@ class Solution {
         int n = nums.length;
 
         if(n == 0) return 0;
+        if(n == 1) return nums[0];
 
-        int[] dp = new int[n+1];
-        Arrays.fill(dp, -1);
+        int prev2 = 0;
+        int prev1 = nums[0];
+        int ans = 0;
+        for(int i=2; i<=n; i++){
+            int pick = nums[i-1] + prev2;
+            int noPick = 0 + prev1;
+            
+            ans = Math.max(pick, noPick);
 
-        return recur(nums, n-1, dp);
-    }
-    private int recur(int[] nums, int index, int[] dp){
-        if(index == 0) return nums[0];
-        if(index < 0) return 0;
-
-        if(dp[index] != -1) return dp[index];
-
-        int pick = nums[index] + recur(nums, index-2, dp);    // if pick then take 2 steps back
-        int noPick = 0 + recur(nums, index-1, dp);  // only take 1 steps back
-
-        dp[index] = Math.max(pick, noPick);
-        return dp[index];
+            prev2 = prev1;
+            prev1 = ans;
+        }
+        return prev1;
     }
 }
