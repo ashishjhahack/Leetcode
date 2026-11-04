@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ashishjhahack/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ashishjhahack/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/ashishjhahack/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/ashishjhahack/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishjhahack/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishjhahack/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ashishjhahack/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishjhahack/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishjhahack/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/ashishjhahack/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/ashishjhahack/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ashishjhahack/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ashishjhahack/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ashishjhahack/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ashishjhahack/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ashishjhahack/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/ashishjhahack/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ashishjhahack/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/ashishjhahack/Leetcode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/ashishjhahack/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishjhahack/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishjhahack/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/ashishjhahack/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ashishjhahack/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/ashishjhahack/Leetcode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ashishjhahack/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashishjhahack/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ashishjhahack/Leetcode/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -472,4 +477,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishjhahack/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ashishjhahack/Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ashishjhahack/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
