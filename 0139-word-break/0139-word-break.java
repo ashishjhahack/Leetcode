@@ -12,7 +12,7 @@ class Solution {
         if(index == s.length()) return true;
         
         if(dp[index] != -1){
-            return dp[index] == 1; 
+            return dp[index] == 1;
         }
 
         for(int i  = index+1; i<=s.length(); i++){ // index -> starting point, i -> ending point
