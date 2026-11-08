@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ashishjhahack/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ashishjhahack/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashishjhahack/Leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishjhahack/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ashishjhahack/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ashishjhahack/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishjhahack/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ashishjhahack/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ashishjhahack/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ashishjhahack/Leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/ashishjhahack/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishjhahack/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ashishjhahack/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/ashishjhahack/Leetcode/tree/master/0120-triangle) |
