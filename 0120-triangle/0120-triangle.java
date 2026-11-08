@@ -19,5 +19,9 @@ class Solution {
 
         dp[i][j] =  Math.min(down, diagonal);
         return dp[i][j];
+
+        // Adding the same number to both choices doesn't change which one is smaller:
+        // a+min(b,c)=min(a+b,a+c)
+        // Eg. directly return triangle.get(i).get(j) + Math.min(down , diagonal)
     }
 }
