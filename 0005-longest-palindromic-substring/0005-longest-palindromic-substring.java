@@ -1,29 +1,24 @@
 class Solution {
-    int max = 0, start = 0, end = 0;
-    public boolean isPalindrome(String s, int i , int j){
-        while(i < j){
-            char ch1 = s.charAt(i);
-            char ch2 = s.charAt(j);
-
-            if(ch1 != ch2) return false;
-            i++;
-            j--;
-        }
-        return true;
-    }
+    int maxLen = 0, st = 0;
     public String longestPalindrome(String s) {
-        int n= s.length();
+        int n = s.length();
         for(int i = 0; i<n; i++){
-            for(int j = i; j<n; j++){
-                if(isPalindrome(s, i, j) == true){
-                    if(j-i+1 > max){     // check maximum length of substring
-                        max = j-i+1;     // update the max
-                        start = i;       // update start & end
-                        end = j;
-                    }
-                }
-            }
+            // odd length palindrome
+            expand(s, i, i);
+            // even length palindrome
+            expand(s, i, i+1);
         }
-        return s.substring(start, end+1);
+        return s.substring(st, st+maxLen);
+    }
+    public void expand(String s, int left, int right){
+        while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
+            int len = right - left + 1;
+            if(len > maxLen){
+                maxLen = len;
+                st = left;
+            }
+            left--;
+            right++;
+        }
     }
 }
