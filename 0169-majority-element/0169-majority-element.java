@@ -1,17 +1,14 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        HashMap<Integer, Integer> countMap = new HashMap<>();
-        int majorityCount = nums.length / 2;
-
-        for (int num : nums) {
-            int count = countMap.getOrDefault(num, 0) + 1;
-            if (count > majorityCount) {
-                return num;
+        int count = 0;
+        int candidate = 0;
+        for(int num: nums){
+            if(count == 0){
+                candidate = num;
             }
-            countMap.put(num, count);
+            if(candidate == num) count++;
+            else count--;
         }
-
-        throw new IllegalArgumentException("No majority element found");
-    
+        return candidate;
     }
 }
